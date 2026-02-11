@@ -34,6 +34,7 @@ build/
 *.zip
 *.crx
 *.pem
+*.screenshots
 
 # Temporary Files
 *.tmp
