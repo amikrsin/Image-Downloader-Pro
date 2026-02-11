@@ -210,7 +210,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Amikrsin**
 - LinkedIn: [@amikrsin](https://www.linkedin.com/in/amikrsin/)
-- GitHub: [@yamikrsin](https://github.com/amikrsin)
+- GitHub: [@amikrsin](https://github.com/amikrsin)
 
 ## 🙏 Acknowledgments
 
